@@ -1,3 +1,2 @@
 Hi you've found my profile page.
-I'm Tyrz939 and my main interests are in machine learning, game development and networking.
-You can see my blog at: https://johnkeen.tech/
+There will be sporadic updates to dehumidifier related projects and personal projects.
